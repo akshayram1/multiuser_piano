@@ -79,8 +79,8 @@ export function ExampleInfo ({
 
       <div className="flex items-center justify-between pb-4">
         <span className="pt-1">
-          <a href="https://ctnicholas.dev" className="transition-colors text-white hover:text-white font-extrabold tracking-tight text-xl">
-            ctnicholas.dev
+          <a href="https://github.com/akshayram1" className="transition-colors text-white hover:text-white font-extrabold tracking-tight text-xl">
+            akshay chame
           </a>
         </span>
         <ul className="flex items-center -mr-2 mt-2">

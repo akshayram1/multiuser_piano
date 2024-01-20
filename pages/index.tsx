@@ -19,8 +19,8 @@ const meta = {
   title: 'Live Piano — A shared piano that multiple users can play at once • ctnicholas.dev',
   description: 'Open in multiple windows, or share the link, to play piano live with others.',
   image: 'https://livepiano.ctnicholas.dev/screenshot.png',
-  url: 'https://livepiano.ctnicholas.dev',
-  author: 'https://ctnicholas.dev',
+  url: 'https://multiuser-piano.vercel.app/?room=aa669ccd1e23e78616c64',
+  author: 'https://github.com/akshayram1',
   twitter: '@ctnicholasdev'
 }
 
